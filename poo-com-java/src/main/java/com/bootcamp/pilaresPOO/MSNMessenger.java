@@ -1,21 +1,14 @@
 package com.bootcamp.pilaresPOO;
 
-public class MSNMessenger {
+public class MSNMessenger extends ServicoMensagemInstantanea {
+
+  @Override
   public void enviarMensagem() {
-    validarConectadoInternet();
-    System.out.println("Enviando mensagem...");
-    salvarHistoricoMensagem();
+    System.out.println("Enviando mensagem pelo MSN Messenger");
   }
 
+  @Override
   public void receberMensagem() {
-    System.out.println("Recebendo mensagem...");
-  }
-
-  private void validarConectadoInternet() {
-    System.out.println("Validando se está conectado a Internet...");
-  }
-
-  private void salvarHistoricoMensagem() {
-    System.out.println("Salvando histórico de mensagens...");
+    System.out.println("Recebendo mensagem pelo MSN Messenger");
   }
 }
