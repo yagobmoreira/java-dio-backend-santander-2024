@@ -1,4 +1,4 @@
-package com.bootcamp.fundamentosPoo.escola;
+package com.bootcamp.fundamentosPOO.escola;
 
 public class Aluno {
   private String nome;

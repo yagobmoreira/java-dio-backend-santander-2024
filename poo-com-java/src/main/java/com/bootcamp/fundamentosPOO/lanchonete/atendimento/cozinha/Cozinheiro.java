@@ -1,6 +1,4 @@
-package com.bootcamp.fundamentosPoo.lanchonete.atendimento.cozinha;
-
-import com.bootcamp.fundamentosPoo.lanchonete.atendimento.Atendente;
+package com.bootcamp.fundamentosPOO.lanchonete.atendimento.cozinha;
 
 public class Cozinheiro {
   public void adicionarLancheNoBalcao() {

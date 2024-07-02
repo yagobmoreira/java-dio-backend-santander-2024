@@ -1,4 +1,4 @@
-package com.bootcamp.fundamentosPoo.classes;
+package com.bootcamp.fundamentosPOO.classes;
 
 public class School {
 

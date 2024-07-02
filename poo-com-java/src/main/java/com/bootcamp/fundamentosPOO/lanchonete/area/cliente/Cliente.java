@@ -1,4 +1,4 @@
-package com.bootcamp.fundamentosPoo.lanchonete.area.cliente;
+package com.bootcamp.fundamentosPOO.lanchonete.area.cliente;
 
 public class Cliente {
   public void escolherLanche() {

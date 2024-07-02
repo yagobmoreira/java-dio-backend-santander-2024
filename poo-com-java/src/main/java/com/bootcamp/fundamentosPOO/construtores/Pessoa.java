@@ -1,4 +1,4 @@
-package com.bootcamp.fundamentosPoo.construtores;
+package com.bootcamp.fundamentosPOO.construtores;
 
 public class Pessoa {
   private String nome;

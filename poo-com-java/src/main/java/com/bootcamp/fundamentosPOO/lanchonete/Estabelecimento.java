@@ -1,8 +1,8 @@
-package com.bootcamp.fundamentosPoo.lanchonete;
+package com.bootcamp.fundamentosPOO.lanchonete;
 
-import com.bootcamp.fundamentosPoo.lanchonete.area.cliente.Cliente;
-import com.bootcamp.fundamentosPoo.lanchonete.atendimento.Atendente;
-import com.bootcamp.fundamentosPoo.lanchonete.atendimento.cozinha.Cozinheiro;
+import com.bootcamp.fundamentosPOO.lanchonete.area.cliente.Cliente;
+import com.bootcamp.fundamentosPOO.lanchonete.atendimento.Atendente;
+import com.bootcamp.fundamentosPOO.lanchonete.atendimento.cozinha.Cozinheiro;
 
 public class Estabelecimento {
 

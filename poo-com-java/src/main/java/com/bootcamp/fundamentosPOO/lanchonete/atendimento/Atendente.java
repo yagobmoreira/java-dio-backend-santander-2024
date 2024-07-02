@@ -1,4 +1,4 @@
-package com.bootcamp.fundamentosPoo.lanchonete.atendimento;
+package com.bootcamp.fundamentosPOO.lanchonete.atendimento;
 
 public class Atendente {
   public void servindoMesa() {

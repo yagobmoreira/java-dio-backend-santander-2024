@@ -1,6 +1,4 @@
-package com.bootcamp.fundamentosPoo.classes;
-
-import java.awt.Color;
+package com.bootcamp.fundamentosPOO.classes;
 
 public class Student {
   String name;

@@ -1,4 +1,4 @@
-package com.bootcamp.fundamentosPoo.enums;
+package com.bootcamp.fundamentosPOO.enums;
 
 public enum EstadoBrasileiro {
   SAO_PAULO ("São Paulo", "SP"),

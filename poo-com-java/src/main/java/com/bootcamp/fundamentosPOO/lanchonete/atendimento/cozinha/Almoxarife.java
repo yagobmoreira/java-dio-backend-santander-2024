@@ -1,4 +1,4 @@
-package com.bootcamp.fundamentosPoo.lanchonete.atendimento.cozinha;
+package com.bootcamp.fundamentosPOO.lanchonete.atendimento.cozinha;
 
 public class Almoxarife {
   private void controlarEntrada() {
