@@ -1,4 +1,5 @@
-package com.dio.bootcamp.java.metodos;
+package com.dio.bootcamp.java.metodo
+s;
 
 public class SmartTV {
   boolean ligada = false;

@@ -19,7 +19,7 @@ public class CarrinhoDeCompras {
 
     for (Item item : itemList) {
       if (item.getNome().equalsIgnoreCase(nome)) {
-q        itensParaRemover.add(item);
+        itensParaRemover.add(item);
       }
     }
 
