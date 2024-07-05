@@ -20,10 +20,8 @@ public class ConsumerExample {
       }
     };
 
-    numeros.forEach(integer -> {
-      if (integer % 2 == 0) {
-        System.out.println(integer);
-      }
-    });
+    numeros.stream()
+        .filter(n -> n % 2 == 0)
+        .forEach(System.out::println);
   }
 }
